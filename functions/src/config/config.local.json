@@ -1,0 +1,14 @@
+{
+  "freee": {
+    "authHost": "http://localhost:5001/hoge-f39f9/us-central1/api/auth",
+    "appHost": "http://localhost:5000",
+    "homePath": "/select_company",
+    "tokenHost": "https://accounts.secure.freee.co.jp",
+    "apiHost": "https://api.freee.co.jp"
+  },
+  "firebase": {
+    "apiKey": "AIzaSyA-IWtOw_Micp3-Nrz4LNzfHGGbsfegZag",
+    "cryptoKeyBucket": "hoge-f39f9.appspot.com"
+  }
+}
+

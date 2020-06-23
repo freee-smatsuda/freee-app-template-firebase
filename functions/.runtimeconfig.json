@@ -1,0 +1,10 @@
+{
+  "env": {
+    "serviceaccountpath": "config/service-account.local.json",
+    "mode": "local"
+  },
+  "freee": {
+    "client_id": "72619a3cb374c1369a06514376ba90e0e8a4947b5fc070c8517a857c15e92a3e",
+    "client_secret": "6a0f255b66672e4c7ca8491d8940028dc4f657a0115e7e82fe6e32e3f515c52a"
+  }
+}
